@@ -25,4 +25,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kanak172/python-problem-solving/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kanak172/python-problem-solving/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kanak172/python-problem-solving/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
