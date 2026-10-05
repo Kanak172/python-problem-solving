@@ -13,6 +13,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
@@ -46,4 +47,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kanak172/python-problem-solving/tree/main/0002-add-two-numbers/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
