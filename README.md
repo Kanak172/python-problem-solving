@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Kanak172/python-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Kanak172/python-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +61,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Kanak172/python-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
