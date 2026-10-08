@@ -20,6 +20,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kanak172/python-problem-solving/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -62,4 +63,12 @@
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Kanak172/python-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kanak172/python-problem-solving/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kanak172/python-problem-solving/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
