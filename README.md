@@ -90,6 +90,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kanak172/python-problem-solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Kanak172/python-problem-solving/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/Kanak172/python-problem-solving/tree/main/0008-string-to-integer-atoi/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
