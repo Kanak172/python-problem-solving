@@ -42,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kanak172/python-problem-solving/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Kanak172/python-problem-solving/tree/main/0007-reverse-integer/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kanak172/python-problem-solving/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
