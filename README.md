@@ -45,6 +45,7 @@
 | [0002-add-two-numbers](https://github.com/Kanak172/python-problem-solving/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Kanak172/python-problem-solving/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Kanak172/python-problem-solving/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Kanak172/python-problem-solving/tree/main/0012-integer-to-roman/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kanak172/python-problem-solving/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@
 | [0006-zigzag-conversion](https://github.com/Kanak172/python-problem-solving/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Kanak172/python-problem-solving/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0010-regular-expression-matching/) | Hard |
+| [0012-integer-to-roman](https://github.com/Kanak172/python-problem-solving/tree/main/0012-integer-to-roman/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kanak172/python-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Kanak172/python-problem-solving/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
