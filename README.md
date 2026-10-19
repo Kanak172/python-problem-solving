@@ -78,6 +78,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kanak172/python-problem-solving/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Kanak172/python-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Kanak172/python-problem-solving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@
 | [0010-regular-expression-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/Kanak172/python-problem-solving/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Kanak172/python-problem-solving/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Kanak172/python-problem-solving/tree/main/0014-longest-common-prefix/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,8 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Kanak172/python-problem-solving/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Kanak172/python-problem-solving/tree/main/0013-roman-to-integer/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Kanak172/python-problem-solving/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
