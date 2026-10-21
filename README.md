@@ -89,6 +89,7 @@
 | [0015-3sum](https://github.com/Kanak172/python-problem-solving/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Kanak172/python-problem-solving/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Kanak172/python-problem-solving/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kanak172/python-problem-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@
 | [0016-3sum-closest](https://github.com/Kanak172/python-problem-solving/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Kanak172/python-problem-solving/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kanak172/python-problem-solving/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kanak172/python-problem-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
