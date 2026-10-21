@@ -41,6 +41,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kanak172/python-problem-solving/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Kanak172/python-problem-solving/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Kanak172/python-problem-solving/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kanak172/python-problem-solving/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kanak172/python-problem-solving/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@
 | [0002-add-two-numbers](https://github.com/Kanak172/python-problem-solving/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0010-regular-expression-matching/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Kanak172/python-problem-solving/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kanak172/python-problem-solving/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
