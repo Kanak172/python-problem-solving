@@ -1,15 +1,13 @@
-class Solution(object):
-    def removeDuplicates(self, nums):
-        digit = -101
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        i,j=0,1
+        while i<=j and j<len(nums):
+            if nums[i]==nums[j]:
+                j+=1
+            else:
+                nums[i+1]=nums[j]
+                i+=1
+        return i+1
 
-        list_a = []
 
-        for i in nums : 
-            if i != digit : 
-                digit = i
-                list_a.append(i)
-            
-        for i in range(len(list_a)):
-            nums[i] = list_a[i]
-
-        return len(list_a)
+        
