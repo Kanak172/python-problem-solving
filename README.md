@@ -92,6 +92,7 @@
 | [0018-4sum](https://github.com/Kanak172/python-problem-solving/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanak172/python-problem-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Kanak172/python-problem-solving/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Kanak172/python-problem-solving/tree/main/0031-next-permutation/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanak172/python-problem-solving/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Kanak172/python-problem-solving/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kanak172/python-problem-solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/Kanak172/python-problem-solving/tree/main/0031-next-permutation/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
