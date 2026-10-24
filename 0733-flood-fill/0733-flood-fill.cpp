@@ -1,30 +1,39 @@
 class Solution {
-private:
-    void dfs(vector<vector<int>>& image, int r, int c, int oldColor, int newColor) {
-        // Boundary check and color match check
-        if (r < 0 || c < 0 || r >= image.size() || c >= image[0].size() || image[r][c] != oldColor) {
-            return;
-        }
-
-        // Change the current pixel's color
-        image[r][c] = newColor;
-
-        // Recursively visit all 4 directions (up, down, left, right)
-        dfs(image, r - 1, c, oldColor, newColor);
-        dfs(image, r + 1, c, oldColor, newColor);
-        dfs(image, r, c - 1, oldColor, newColor);
-        dfs(image, r, c + 1, oldColor, newColor);
-    }
-
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        int oldColor = image[sr][sc];
+        
+        // Edge case: If the starting pixel already has the target color, no change is needed
+        if (oldColor == color) {
+            return image;
+        }
+
         int m = image.size();
         int n = image[0].size();
-        int oldColor = image[sr][sc];
+        
+        queue<pair<int, int>> q;
+        q.push({sr, sc});
+        image[sr][sc] = color; // Paint the starting pixel immediately
 
-        // If the old color matches the target color, no change is needed (prevents infinite recursion)
-        if (oldColor != color) {
-            dfs(image, sr, sc, oldColor, color);
+        // Direction arrays for moving Up, Down, Left, Right
+        int dRow[] = {-1, 1, 0, 0};
+        int dCol[] = {0, 0, -1, 1};
+
+        while (!q.empty()) {
+            auto [r, c] = q.front();
+            q.pop();
+
+            // Check all 4 adjacent neighbors
+            for (int i = 0; i < 4; i++) {
+                int nextRow = r + dRow[i];
+                int nextCol = c + dCol[i];
+
+                // Validate boundaries and check if the neighbor matches the old color
+                if (nextRow >= 0 && nextRow < m && nextCol >= 0 && nextCol < n && image[nextRow][nextCol] == oldColor) {
+                    image[nextRow][nextCol] = color; // Paint it
+                    q.push({nextRow, nextCol});       // Push to queue for further exploration
+                }
+            }
         }
 
         return image;
