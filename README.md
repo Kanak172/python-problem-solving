@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kanak172/python-problem-solving/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanak172/python-problem-solving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanak172/python-problem-solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@
 | [0027-remove-element](https://github.com/Kanak172/python-problem-solving/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Kanak172/python-problem-solving/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kanak172/python-problem-solving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanak172/python-problem-solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Divide and Conquer
