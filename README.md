@@ -56,6 +56,7 @@
 | [0012-integer-to-roman](https://github.com/Kanak172/python-problem-solving/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Kanak172/python-problem-solving/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Kanak172/python-problem-solving/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/Kanak172/python-problem-solving/tree/main/0043-multiply-strings/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kanak172/python-problem-solving/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kanak172/python-problem-solving/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Kanak172/python-problem-solving/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Kanak172/python-problem-solving/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/Kanak172/python-problem-solving/tree/main/0043-multiply-strings/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,4 +235,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Kanak172/python-problem-solving/tree/main/0037-sudoku-solver/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Kanak172/python-problem-solving/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
