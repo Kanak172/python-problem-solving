@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kanak172/python-problem-solving/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Kanak172/python-problem-solving/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@
 | [0010-regular-expression-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0010-regular-expression-matching/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Kanak172/python-problem-solving/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kanak172/python-problem-solving/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +153,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Kanak172/python-problem-solving/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Kanak172/python-problem-solving/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Kanak172/python-problem-solving/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kanak172/python-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
