@@ -111,6 +111,7 @@
 | [0040-combination-sum-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/Kanak172/python-problem-solving/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Kanak172/python-problem-solving/tree/main/0046-permutations/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Divide and Conquer
@@ -193,6 +194,7 @@
 | [0037-sudoku-solver](https://github.com/Kanak172/python-problem-solving/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Kanak172/python-problem-solving/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Kanak172/python-problem-solving/tree/main/0046-permutations/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
