@@ -114,6 +114,7 @@
 | [0045-jump-game-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Kanak172/python-problem-solving/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Kanak172/python-problem-solving/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Kanak172/python-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Divide and Conquer
@@ -160,6 +161,7 @@
 | [0038-count-and-say](https://github.com/Kanak172/python-problem-solving/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Kanak172/python-problem-solving/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/Kanak172/python-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@
 | [0036-valid-sudoku](https://github.com/Kanak172/python-problem-solving/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Kanak172/python-problem-solving/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Kanak172/python-problem-solving/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/Kanak172/python-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +193,7 @@
 | [0015-3sum](https://github.com/Kanak172/python-problem-solving/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Kanak172/python-problem-solving/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Kanak172/python-problem-solving/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Kanak172/python-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
