@@ -206,6 +206,7 @@
 | [0040-combination-sum-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Kanak172/python-problem-solving/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Kanak172/python-problem-solving/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0052-n-queens-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +253,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Kanak172/python-problem-solving/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Kanak172/python-problem-solving/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0052-n-queens-ii/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
