@@ -9,6 +9,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Kanak172/python-problem-solving/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Kanak172/python-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@
 | [0048-rotate-image](https://github.com/Kanak172/python-problem-solving/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Kanak172/python-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Kanak172/python-problem-solving/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/Kanak172/python-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Divide and Conquer
@@ -125,6 +127,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kanak172/python-problem-solving/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Kanak172/python-problem-solving/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Kanak172/python-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
