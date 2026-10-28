@@ -120,6 +120,7 @@
 | [0049-group-anagrams](https://github.com/Kanak172/python-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Kanak172/python-problem-solving/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kanak172/python-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Divide and Conquer
@@ -134,6 +135,7 @@
 | [0036-valid-sudoku](https://github.com/Kanak172/python-problem-solving/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Kanak172/python-problem-solving/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Kanak172/python-problem-solving/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Two Pointers
@@ -265,4 +267,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Kanak172/python-problem-solving/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
