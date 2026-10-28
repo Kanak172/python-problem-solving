@@ -10,6 +10,7 @@
 | [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kanak172/python-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Kanak172/python-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [0051-n-queens](https://github.com/Kanak172/python-problem-solving/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kanak172/python-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Kanak172/python-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Divide and Conquer
@@ -180,6 +182,7 @@
 | [0011-container-with-most-water](https://github.com/Kanak172/python-problem-solving/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Kanak172/python-problem-solving/tree/main/0055-jump-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
