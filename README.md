@@ -124,6 +124,7 @@
 | [0054-spiral-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Kanak172/python-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Kanak172/python-problem-solving/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/Kanak172/python-problem-solving/tree/main/0057-insert-interval/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Divide and Conquer
