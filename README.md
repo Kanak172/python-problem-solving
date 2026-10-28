@@ -125,6 +125,7 @@
 | [0055-jump-game](https://github.com/Kanak172/python-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Kanak172/python-problem-solving/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Kanak172/python-problem-solving/tree/main/0057-insert-interval/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Divide and Conquer
@@ -140,6 +141,7 @@
 | [0037-sudoku-solver](https://github.com/Kanak172/python-problem-solving/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Kanak172/python-problem-solving/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Two Pointers
@@ -275,6 +277,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Kanak172/python-problem-solving/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
