@@ -63,6 +63,7 @@
 | [0043-multiply-strings](https://github.com/Kanak172/python-problem-solving/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Kanak172/python-problem-solving/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Kanak172/python-problem-solving/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/Kanak172/python-problem-solving/tree/main/0060-permutation-sequence/) | Hard |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kanak172/python-problem-solving/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Kanak172/python-problem-solving/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Kanak172/python-problem-solving/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/Kanak172/python-problem-solving/tree/main/0060-permutation-sequence/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
