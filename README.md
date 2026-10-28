@@ -174,6 +174,7 @@
 | [0043-multiply-strings](https://github.com/Kanak172/python-problem-solving/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Kanak172/python-problem-solving/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/Kanak172/python-problem-solving/tree/main/0058-length-of-last-word/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
