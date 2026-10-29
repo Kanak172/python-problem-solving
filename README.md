@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Kanak172/python-problem-solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Kanak172/python-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Kanak172/python-problem-solving/tree/main/0062-unique-paths/) | Medium |
+| [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Kanak172/python-problem-solving/tree/main/0841-keys-and-rooms/) | Medium |
@@ -133,6 +135,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kanak172/python-problem-solving/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -150,6 +153,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kanak172/python-problem-solving/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
