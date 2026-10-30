@@ -22,6 +22,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
@@ -135,6 +136,7 @@
 | [0057-insert-interval](https://github.com/Kanak172/python-problem-solving/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kanak172/python-problem-solving/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
@@ -154,6 +156,7 @@
 | [0054-spiral-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kanak172/python-problem-solving/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
@@ -192,6 +195,7 @@
 | [0044-wildcard-matching](https://github.com/Kanak172/python-problem-solving/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Kanak172/python-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Kanak172/python-problem-solving/tree/main/0058-length-of-last-word/) | Easy |
+| [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +241,7 @@
 | [0046-permutations](https://github.com/Kanak172/python-problem-solving/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Kanak172/python-problem-solving/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0052-n-queens-ii/) | Hard |
+| [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
