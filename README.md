@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/Kanak172/python-problem-solving/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
@@ -89,6 +90,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Kanak172/python-problem-solving/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
@@ -98,6 +100,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Kanak172/python-problem-solving/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Kanak172/python-problem-solving/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
@@ -137,6 +140,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kanak172/python-problem-solving/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/Kanak172/python-problem-solving/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
@@ -157,6 +161,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kanak172/python-problem-solving/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/Kanak172/python-problem-solving/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
