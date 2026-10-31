@@ -14,6 +14,7 @@
 | [0062-unique-paths](https://github.com/Kanak172/python-problem-solving/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kanak172/python-problem-solving/tree/main/0064-minimum-path-sum/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Kanak172/python-problem-solving/tree/main/0085-maximal-rectangle/) | Hard |
 | [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kanak172/python-problem-solving/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Tree
@@ -78,6 +79,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Kanak172/python-problem-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Kanak172/python-problem-solving/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Kanak172/python-problem-solving/tree/main/0085-maximal-rectangle/) | Hard |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kanak172/python-problem-solving/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -144,6 +146,7 @@
 | [0064-minimum-path-sum](https://github.com/Kanak172/python-problem-solving/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kanak172/python-problem-solving/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Kanak172/python-problem-solving/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Kanak172/python-problem-solving/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
@@ -167,6 +170,7 @@
 | [0064-minimum-path-sum](https://github.com/Kanak172/python-problem-solving/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kanak172/python-problem-solving/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Kanak172/python-problem-solving/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Kanak172/python-problem-solving/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
@@ -318,4 +322,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Kanak172/python-problem-solving/tree/main/0062-unique-paths/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/Kanak172/python-problem-solving/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
