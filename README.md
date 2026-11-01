@@ -151,6 +151,7 @@
 | [0130-surrounded-regions](https://github.com/Kanak172/python-problem-solving/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/Kanak172/python-problem-solving/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0212-word-search-ii/) | Hard |
 | [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Kanak172/python-problem-solving/tree/main/0994-rotting-oranges/) | Medium |
@@ -176,6 +177,7 @@
 | [0130-surrounded-regions](https://github.com/Kanak172/python-problem-solving/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/Kanak172/python-problem-solving/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Kanak172/python-problem-solving/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0212-word-search-ii/) | Hard |
 | [0542-01-matrix](https://github.com/Kanak172/python-problem-solving/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Kanak172/python-problem-solving/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Kanak172/python-problem-solving/tree/main/0994-rotting-oranges/) | Medium |
@@ -214,6 +216,7 @@
 | [0049-group-anagrams](https://github.com/Kanak172/python-problem-solving/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Kanak172/python-problem-solving/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
+| [0212-word-search-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0212-word-search-ii/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +244,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Kanak172/python-problem-solving/tree/main/0014-longest-common-prefix/) | Easy |
+| [0212-word-search-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0212-word-search-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +264,7 @@
 | [0051-n-queens](https://github.com/Kanak172/python-problem-solving/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0052-n-queens-ii/) | Hard |
 | [0079-word-search](https://github.com/Kanak172/python-problem-solving/tree/main/0079-word-search/) | Medium |
+| [0212-word-search-ii](https://github.com/Kanak172/python-problem-solving/tree/main/0212-word-search-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
